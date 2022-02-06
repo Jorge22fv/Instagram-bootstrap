@@ -1,0 +1,9 @@
+.iconheader{
+    display:flex;
+    float:right;
+}
+.iconfooter{
+    display:flex;
+    float:right;
+    width: 30px;
+}
